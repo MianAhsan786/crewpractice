@@ -1,3 +1,6 @@
 ls
 mkdir
-
+cd
+cp
+mv
+vi
